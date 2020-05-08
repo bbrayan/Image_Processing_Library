@@ -2,7 +2,7 @@
 the purpose of this app is to learn basic image editing techniques
 like and features as listed bellow.
 
-      Markup : * applying 3x3 filters
+               * applying 3x3 filters
                * thinning an image
                * finding the number ofconnected regions of black pixels
                * scaling and image to certain dimentions
