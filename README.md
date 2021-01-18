@@ -8,7 +8,7 @@ applying 3x3 filters, in the example bellow i am using an edge tedection filter
 finding the number of black pixel's in each connected region, also returning those regions as seprate images
 ![](image/multi.png)
 
-scaling and image to certain dimentions, this can be done a a single images or every connected region in an image as shown bellow 
+scaling and image to certain dimentions, this can be done to a single images or every connected region in an image as shown bellow 
 ![](image/scaling.png)
 
 thinning an image
