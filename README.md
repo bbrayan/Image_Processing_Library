@@ -1,6 +1,5 @@
 # Number_Recognition
-the purpose of this app is to learn basic image editing techniques
-like and features as listed bellow.
+This app aims to learn basic image editing techniques and features as listed below.
 
 applying 3x3 filters, in the example bellow i am using an edge tedection filter
 ![](image/filter.png)
